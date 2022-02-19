@@ -19,6 +19,6 @@ export default createGlobalStyle`
   }
 
 	h1 {
-		color: ${(props) => props.theme.colors.primary};
+		color: ${(props) => props.theme.colors.text};
 	}
 `;
