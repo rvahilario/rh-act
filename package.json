@@ -1,14 +1,18 @@
 {
-	"name": "typescript-nextjs-starter",
-	"description": "A TypeScript starter for Next.js that includes all you need to build amazing projects",
+	"name": "rh-act",
+	"description": "Hilario version inpired in Non-opinionated TypeScript starter for Next.js",
 	"version": "1.0.0",
 	"private": true,
-	"author": "João Pedro Schmitz <hey@joaopedro.dev> (@jpedroschmitz)",
+	"author": "Renan Hilário <rvahilario@gmail> (@rvahilario)",
 	"license": "MIT",
 	"keywords": [
 		"nextjs",
 		"starter",
-		"typescript"
+		"typescript",
+		"jest",
+		"testing-library",
+		"styled-components",
+		"plop"
 	],
 	"scripts": {
 		"dev": "next",
