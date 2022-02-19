@@ -8,7 +8,7 @@ export default function Home() {
 				<title>TypeScript starter for Next.js</title>
 			</Head>
 
-			<main></main>
+			<h1>~ Hello World ~</h1>
 		</>
 	);
 }
