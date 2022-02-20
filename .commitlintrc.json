@@ -15,7 +15,8 @@
 				"dep",
 				"gitingore",
 				"docs",
-				"perf"
+				"perf",
+				"start"
 			]
 		]
 	}
