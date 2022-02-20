@@ -14,7 +14,8 @@
 				"del",
 				"dep",
 				"gitingore",
-				"docs"
+				"docs",
+				"perf"
 			]
 		]
 	}
