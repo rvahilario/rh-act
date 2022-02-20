@@ -13,7 +13,8 @@
 				"config",
 				"del",
 				"dep",
-				"gitingore"
+				"gitingore",
+				"docs"
 			]
 		]
 	}
