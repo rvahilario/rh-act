@@ -1,6 +1,6 @@
 {
 	"extends": ["gitmoji"],
 	"rules": {
-		"type-enum": [2, "always", ["feat", "fix", "style"]]
+		"type-enum": [2, "always", ["feat", "fix", "style", "refactor"]]
 	}
 }

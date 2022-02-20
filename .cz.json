@@ -1,7 +1,7 @@
 {
 	"path": "emoji-cz",
 	"emoji-cz": {
-		"format": "[emoji] [name](): [subject]",
+		"format": "[emoji] [name]( ): [subject]",
 		"types": {
 			"Feat": {
 				"name": "feat",
