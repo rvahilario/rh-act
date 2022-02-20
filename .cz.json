@@ -1,0 +1,73 @@
+{
+	"path": "emoji-cz",
+	"emoji-cz": {
+		"format": "[emoji] [name](): [subject]",
+		"types": {
+			"Feat": {
+				"name": "feat",
+				"emoji": "✨",
+				"description": "A new feature"
+			},
+			"Fix": {
+				"name": "fix",
+				"emoji": "🐛",
+				"description": "A bug fix"
+			},
+			"Style": {
+				"name": "style",
+				"emoji": "🎨",
+				"description": "Changes that do not affect the meaning of the code"
+			},
+			"Refactor": {
+				"name": "refactor",
+				"emoji": "♻️",
+				"description": "A code change that neither fixes a bug nor adds a feature"
+			},
+			"Test": {
+				"name": "test",
+				"emoji": "✅",
+				"description": "Adding missing tests or correcting existing tests"
+			},
+			"Config": {
+				"name": "config",
+				"emoji": "🔧",
+				"description": "Add or update configuration files"
+			},
+			"Delete": {
+				"name": "del",
+				"emoji": "🔥",
+				"description": "Remove code or files"
+			},
+			"Add Dep": {
+				"name": "dep",
+				"emoji": "➕",
+				"description": "Add a dependency"
+			},
+			"Remove Dep": {
+				"name": "dep",
+				"emoji": "➖",
+				"description": "Remove a dependency"
+			},
+			"Gitignore": {
+				"name": "gitingore",
+				"emoji": "🙈",
+				"description": "Add or update a .gitignore file"
+			},
+			"Docs": {
+				"name": "docs",
+				"emoji": "📝",
+				"description": "Add or update documentation"
+			},
+			"Perf": {
+				"name": "perf",
+				"emoji": "⚡️",
+				"description": "A code change that improves performance"
+			},
+			"Initial commit": {
+				"name": "start",
+				"emoji": "🎉",
+				"description": "Begin a project"
+			}
+		}
+	}
+}
