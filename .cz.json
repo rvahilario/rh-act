@@ -20,7 +20,7 @@
 			},
 			"Refactor": {
 				"name": "refactor",
-				"emoji": "♻️",
+				"emoji": "🔨",
 				"description": "A code change that neither fixes a bug nor adds a feature"
 			},
 			"Test": {
