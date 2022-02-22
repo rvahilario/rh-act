@@ -15,7 +15,7 @@ module.exports = {
 				// 'dep-add',
 				// 'dep-rm',
 				'gitingore',
-				// 'docs',
+				'docs',
 				// 'perf',
 				// 'start',
 				// 'moving',
