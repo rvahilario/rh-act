@@ -9,7 +9,7 @@ module.exports = {
 				'fix',
 				'style',
 				'refact',
-				// 'test',
+				'test',
 				// 'config',
 				// 'del',
 				// 'dep-add',
