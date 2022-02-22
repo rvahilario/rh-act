@@ -70,5 +70,110 @@
 		"prettier": "2.5.1",
 		"typescript": "4.5.5"
 	},
-	"config": {}
+	"config": {
+		"commitizen": {
+			"path": "cz-emoji"
+		},
+		"cz-emoji": {
+			"conventional": true,
+			"skipQuestions": [
+				"scope",
+				"body",
+				"issues",
+				"breaking"
+			],
+			"types": [
+				{
+					"emoji": "🌟",
+					"code": ":star2:",
+					"description": "Introducing new features.",
+					"name": "feat"
+				},
+				{
+					"emoji": "🐞",
+					"code": ":beetle:",
+					"description": "Fixing a bug.",
+					"name": "fix"
+				},
+				{
+					"emoji": "🎨",
+					"code": ":art:",
+					"description": "Improving structure / format of the code.",
+					"name": "style"
+				},
+				{
+					"emoji": "♻️",
+					"code": ":recycle:",
+					"description": "Refactoring code.",
+					"name": "refact"
+				},
+				{
+					"emoji": "✅",
+					"code": ":white_check_mark:",
+					"description": "Adding tests.",
+					"name": "test"
+				},
+				{
+					"emoji": "🔧",
+					"code": ":wrench:",
+					"description": "Changing configuration files.",
+					"name": "config"
+				},
+				{
+					"emoji": "🔥",
+					"code": ":fire:",
+					"description": "Removing code or files.",
+					"name": "del"
+				},
+				{
+					"emoji": "➕",
+					"code": ":heavy_plus_sign:",
+					"description": "Adding a dependency.",
+					"name": "dep_add"
+				},
+				{
+					"emoji": "➖",
+					"code": ":heavy_minus_sign:",
+					"description": "Removing a dependency.",
+					"name": "dep_rm"
+				},
+				{
+					"emoji": "🙈",
+					"code": ":see_no_evil:",
+					"description": "Adding or updating a .gitignore file.",
+					"name": "gitingore"
+				},
+				{
+					"emoji": "📝",
+					"code": ":pencil:",
+					"description": "Writing docs.",
+					"name": "docs"
+				},
+				{
+					"emoji": "⚡️",
+					"code": ":zap:",
+					"description": "Improving performance.",
+					"name": "perf"
+				},
+				{
+					"emoji": "🎉",
+					"code": ":tada:",
+					"description": "Initial commit.",
+					"name": "start"
+				},
+				{
+					"emoji": "🚚",
+					"code": ":truck:",
+					"description": "Moving or renaming files.",
+					"name": "moving"
+				},
+				{
+					"emoji": "🍱",
+					"code": ":bento:",
+					"description": "Adding or updating assets.",
+					"name": "assets"
+				}
+			]
+		}
+	}
 }
