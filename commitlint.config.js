@@ -23,9 +23,4 @@ module.exports = {
 			],
 		],
 	},
-	parserPreset: {
-		parserOpts: {
-			headerCorrespondence: ['type', 'scope', 'subject', 'ticket'],
-		},
-	},
 };
