@@ -18,7 +18,7 @@ module.exports = {
 				'docs',
 				'perf',
 				'start',
-				// 'moving',
+				'moving',
 				// 'assets',
 			],
 		],
