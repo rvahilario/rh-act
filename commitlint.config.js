@@ -11,7 +11,7 @@ module.exports = {
 				'refact',
 				'test',
 				'config',
-				// 'del',
+				'del',
 				// 'dep-add',
 				// 'dep-rm',
 				// 'gitingore',
