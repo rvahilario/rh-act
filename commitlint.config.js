@@ -13,7 +13,7 @@ module.exports = {
 				'config',
 				'del',
 				'dep_add',
-				// 'depRM',
+				'dep_rm',
 				'gitingore',
 				'docs',
 				'perf',
