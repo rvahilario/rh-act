@@ -19,7 +19,7 @@ module.exports = {
 				'perf',
 				'start',
 				'moving',
-				// 'assets',
+				'assets',
 			],
 		],
 	},
