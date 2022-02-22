@@ -17,7 +17,7 @@ module.exports = {
 				'gitingore',
 				'docs',
 				'perf',
-				// 'start',
+				'start',
 				// 'moving',
 				// 'assets',
 			],
