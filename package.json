@@ -90,8 +90,8 @@
 					"name": "feat"
 				},
 				{
-					"emoji": "🐞",
-					"code": ":beetle:",
+					"emoji": "🐛",
+					"code": ":bug:",
 					"description": "Fixing a bug.",
 					"name": "fix"
 				},
